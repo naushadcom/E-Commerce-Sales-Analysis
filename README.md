@@ -38,7 +38,7 @@ Perform the above analysis for the top 2 cities contributing to the trends in ea
 Based on the root cause analysis, suggest ways to improve the performance of the identified states and cities.
 
 <h2>Power BI Dashboard</h2>
-<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/power_bi.png"
+<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/power_bi.png">
 
 <h2>Meaningful Insights</h2>
 
