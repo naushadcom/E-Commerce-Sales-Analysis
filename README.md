@@ -36,3 +36,7 @@ Perform the above analysis for the top 2 cities contributing to the trends in ea
 <h3>Recommendations:</h3>
 
 Based on the root cause analysis, suggest ways to improve the performance of the identified states and cities.
+
+
+<h2>Excel Dashboard</h2>
+<img src=""
