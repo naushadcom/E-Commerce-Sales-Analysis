@@ -39,4 +39,4 @@ Based on the root cause analysis, suggest ways to improve the performance of the
 
 
 <h2>Excel Dashboard</h2>
-<img src=""
+<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/Power%20BI%20Dashboard.png"
