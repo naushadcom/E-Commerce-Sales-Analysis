@@ -37,13 +37,8 @@ Perform the above analysis for the top 2 cities contributing to the trends in ea
 
 Based on the root cause analysis, suggest ways to improve the performance of the identified states and cities.
 
-
-<<<<<<< Updated upstream
-<h2>Excel Dashboard</h2>
-<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/Power_BI_Dashboard.png">
-=======
 <h2>Power BI Dashboard</h2>
-<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/Power_BI_Dashboard.png"
+<img src="https://github.com/naushadcom/E-Commerce-Sales-Analysis/blob/main/Screenshot/power_bi.png"
 
 <h2>Meaningful Insights</h2>
 
@@ -116,4 +111,3 @@ Product Assortment: Adjust product offerings based on regional preferences and d
 Local Partnerships: Collaborate with local businesses to boost brand presence and customer trust.
 Data-Driven Decisions: Utilize sales data to make informed decisions about inventory, pricing, and promotions.
 By implementing these recommendations, the e-commerce store can enhance its performance across different states and cities, leading to increased sales and customer satisfaction.
->>>>>>> Stashed changes
