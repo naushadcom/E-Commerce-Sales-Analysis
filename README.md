@@ -95,6 +95,7 @@ Based on the root cause analysis, suggest ways to improve the performance of the
 ### 12. Top Sales States and Product Categories
 - Popular categories like health and beauty, watches, etc., should be heavily stocked and promoted in SP, BA, and MG.
 
+
 ## Recommendations
 
 - **Enhanced Marketing Campaigns:** Tailor promotions to target states and cities with declining trends.
